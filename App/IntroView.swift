@@ -3,6 +3,7 @@ import SwiftUI
 struct IntroView: View {
    var body: some View {
        Text("Hello, world.")
+       Text("I am Daniel.")
    }
 }
 

@@ -2,7 +2,7 @@ import SwiftUI
 
 struct IntroView: View {
    var body: some View {
-       Text("Hello, friend.")
+       Text("Hello, world.")
    }
 }
 
